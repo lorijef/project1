@@ -5,27 +5,24 @@
 **Summary**
 | Field | Detail |
 |-------|--------|
-| Project Name | {Put Project Name Here}|
-| Description | {One sentence summarizing what is the app and why it matters} |
-| Developers | {List of Developers} |
-| Live Website | {website of deployed application} |
-| Repo | {Link to git repository} |
+| Project Name | Deck Of Cards |
+| Description | Deck of cards to pick any card from |
+| Developers | Lori Jefitjian |
+| Live Website |  |
+| Repo |  |
 
 ## Problem Being Solved and Target Market
 
-Use this area to explain what problem your app is solving, and who are the people who have this problem.
+My app is made to make it easier to shuffle a deck of cards & picking any card from that deck.
 
 ## User Stories
 
 List of stories users should experience when using your application.
+(Still working on what I want the user to do. This isn't final.)
 
-- Users should be able to see the site on desktop and mobile
-- Users can create an account
-- Users can sign in to their account
-- Users can create a new item
-- Users can see all their items on the dashboard
-- Users can update items
-- User can delete items
+- Users can shuffle cards
+- Users can pick any card from the deck
+- Users can play card games
 
 ## Route Tables
 
