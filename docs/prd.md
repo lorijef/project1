@@ -5,24 +5,23 @@
 **Summary**
 | Field | Detail |
 |-------|--------|
-| Project Name | Deck Of Cards |
-| Description | Deck of cards to pick any card from |
+| Project Name | NASA / The Planet Earth|
+| Description | Information about The Planet Earth |
 | Developers | Lori Jefitjian |
-| Live Website |  |
-| Repo |  |
+| Live Website | http://127.0.0.1:5500/html/index.html |
+| Repo | https://github.com/lorijef/project1 |
 
 ## Problem Being Solved and Target Market
 
-My app is made to make it easier to shuffle a deck of cards & picking any card from that deck.
+My website is made to give detailed information of the planet Earth. 
 
 ## User Stories
 
 List of stories users should experience when using your application.
 (Still working on what I want the user to do. This isn't final.)
 
-- Users can shuffle cards
-- Users can pick any card from the deck
-- Users can play card games
+- Users will be able to see photos.
+- Users will be able to read about the planet.
 
 ## Route Tables
 
