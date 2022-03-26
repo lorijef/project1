@@ -1,7 +1,7 @@
-const APIKEY = "20220323214841"
+const APIKEY = "LQdXhDIH9sPa12BFcZ6e3DdCWhREyOG2LY3fBNMQ"
 
 $.ajax({
-    url: `https://deckofcardsapi.com/api/deck/new/shuffle/?deck_count=1${APIKEY}`,
+    url: `https://api.nasa.gov/planetary/apod?api_key=${APIKEY}`,
 }).then((data) => {
-  
+  console.log(data)
 })

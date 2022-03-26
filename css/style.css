@@ -1,9 +1,39 @@
+/* body {
+   background-color: rgb(37, 110, 37);
+}
+
 header {
-   background-color: white;
-   color: red;
+   color: white;
    display: flex;
    flex-direction: column;
    justify-content: center;
    align-items: center;
-   
+   font-size: x-large;
 }
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.square {
+   height: 100px;
+   width: 100px;
+   border-style: double;
+}
+
+.one {
+   background-color: white;
+}
+
+.two {
+   background-color: white;
+}
+
+.three {
+   background-color: white;
+}
+
+.four {
+   background-color: white;
+} */
