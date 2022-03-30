@@ -1,23 +1,17 @@
-/* body {
-   background-color: rgb(37, 110, 37);
+body{
+   background-color: #fff;
 }
-
-header {
-   color: white;
-   display: flex;
-   flex-direction: column;
-   justify-content: center;
-   align-items: center;
-   font-size: x-large;
+header{
+   color: blue;
 }
-
-.container {
-    display: flex;
-    justify-content: space-between;
+.image img{
+   max-width: 100%;
+   height: auto;
 }
-
-.square {
-   height: 100px;
-   width: 100px;
-   border-style: double;
+.image p{
+   margin-top: 2px;
+   text-align: center;
+}
+button{
+   margin-top: 32px;
 }

@@ -1,0 +1,17 @@
+body{
+    background-color: #fff;
+}
+header{
+    color: blue;
+}
+.image img{
+    max-width: 100%;
+    height: auto;
+}
+.image p{
+    margin-top: 2px;
+    text-align: center;
+}
+button{
+    margin-top: 32px;
+}
